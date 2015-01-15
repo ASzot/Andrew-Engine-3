@@ -1,0 +1,14 @@
+# Blender MTL File: 'quit.blend'
+# Material Count: 1
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.010000 0.10000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd data/Textures/floorN.dds
+map_bump data/Textures/floorNormalMap.dds
+
+

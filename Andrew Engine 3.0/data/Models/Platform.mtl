@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+newmtl Material.001
+Ns 96.078431
+Ka 0.5000 0.500 0.50000
+Kd 0.5000 0.500 0.50000
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd data/Textures/masonry-wall-textureN.jpg
+map_bump data/Textures/masonry-wall-textureNormalMap.jpg
+
+

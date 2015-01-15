@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.207832 0.207832 0.207832
+Ks 0.639344 0.639344 0.639344
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd data/dark-metal.dds
+
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd data/Textures/stonesN.dds
+map_bump data/Textures/stonesNormalMap.dds
+
+

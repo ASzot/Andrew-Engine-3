@@ -1,0 +1,12 @@
+# Blender MTL File: 'box_wooden.blend'
+# Material Count: 1
+newmtl Box
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.573633 0.335239 0.027710
+Ks 0.011962 0.011962 0.011962
+Ni 1.000000
+d 1.000000
+illum 2
+
+

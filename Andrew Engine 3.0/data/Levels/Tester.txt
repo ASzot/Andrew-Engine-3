@@ -1,0 +1,14 @@
+n Tester!
+
+g 1
+l 0.1 0.1 0.1 0.5 0.5 0.5 0 0.1 0 25 0.3 0.3 0.3 0 5 95
+m Platform.obj 0 0 90 0 0 0 1 1 1 13.2 13.2 13.2 0 0 0 0 0 2 0 0
+m WallModel.obj 0 0 95.9 0 0 0 1 1.5 1 4 6.3 1 0 0 0 0 0 2 0 0
+m Pedistal.obj 0 1.3 90 0 0 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0
+m WallModel.obj 0 0.29 84 0 0 0 1 1 1 2 2.5 1 0 0 0 0 0 1 0 0
+m WallModel.obj -6.97 0.27 90.31 0 90 0 1 1 1 2 2.5 1 0 0 0 0 0 1 0 0
+m WallModel.obj 7.07 0.17 90.11 0 90 0 1 1 1 2 2.5 1 0 0 0 0 0 1 0 0
+m TesterSphere.obj 0 4.8 90 0 0 0 1 1 1 1 1 1 0 0 0 0 0 1 1 0
+m BathTub.obj 3.99 1.1 90.11 0 0 0 0.5 0.3 0.5 1 1 1 0 0 0 0 0 1 0 1
+m TesterSphere.obj 0.167777 0.900695 85.5905 0 0 0 0.5 0.5 0.5 1 1 1 0 0 0 4 0 2 0 0
+p -5 -1 100 0.015 1.25 1 500 1 10 20 50 20 1 0 1 data/Particles/smokevol1.dds data/Particles/colorgradient.dds
